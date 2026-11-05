@@ -23,19 +23,19 @@
 				},
 				{
 					"name": "instLandmark",
-					"width": 1.8
+					"width": 0.45
 				},
 				{
 					"name": "instSimpleCollision",
-					"width": 1.8
+					"width": 0.45
 				},
 				{
 					"name": "instBanger",
-					"width": 1.8
+					"width": 0.45
 				},
 				{
 					"name": "instMultiroom",
-					"width": 1.8
+					"width": 0.45
 				},
 				{
 					"name": "instPaintJob",
